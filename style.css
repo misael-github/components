@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+.header {
+    background-color: #DE4545;
+    height: 90px;
+    
+}
+.contacto {
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+    color: #fff;
+    height: 667px;
+}
+.section__home {
+    font-family: "Poppins";
+    height: 569px;
+    background-color: #5FE0C9;
+}
+.section__home--title {
+    margin: 0;
+    text-align: center;
+}
